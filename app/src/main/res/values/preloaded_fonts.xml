@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/adamina</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amiri</item>
+        <item>@font/amiri_bold</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/domine</item>
+        <item>@font/vollkorn</item>
+    </array>
+</resources>

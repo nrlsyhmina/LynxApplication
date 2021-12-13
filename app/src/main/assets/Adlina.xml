@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resume>
+    <!-->Personal details<-->
+    <name>Wan Nur Adlina</name>
+    <phone>011-3218-5789</phone>
+    <email>nuradlinaw@gmail.com</email>
+    <address>No.1, Lorong 13, Taman Seri Inderapura, 25150 Kuantan</address>
+    <position>Student</position>
+    <socials>
+        <social id="1">Facebook: Lina Wn</social>
+        <social id="2">Instagram: @lina.wn</social>
+    </socials>
+
+    <!-->Resume content<-->
+    <summary>I am a full time degree student of Computer Science in UiTM Jasin. </summary>
+    <skills>
+        <skill id="1">Microsoft Word</skill>
+        <skill id="2">Adobe Photoshop/Illustrator</skill>
+        <skill id="3">C++,HTML,Java,PHP,CSS,C#</skill>
+        <skill id="4">Proficient in Malay and English</skill>
+    </skills>
+    <experiences>
+        <experience id="1">Joined in C++ competition (2018)</experience>
+        <experience id="2">One of the committees for iFix Outreach(2018)</experience>
+        <experience id="3">Programmer at Majlis Perbandaran Kuantan(MPK)(2019) .</experience>
+        <experience id="4"> </experience>
+    </experiences>
+    <educations>
+        <education id="1">SMK Paya Besar, Kuantan (2015-2016)</education>
+        <education id="2">Diploma: UiTM Kampus Raub, Raub (2017-2020)</education>
+        <education id="3">Degree: UiTM Kampus Jasin, Melaka (2020-2022)</education>
+        <education id="4"></education>
+    </educations>
+    <interest>I am interested in web design, multimedia, and books.</interest>
+</Resume>

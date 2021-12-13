@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resume>
+    <!-->Personal details<-->
+    <name>NUR AIN EMYLIA </name>
+    <phone>0136711470</phone>
+    <email>ainvauxh@gmail.com</email>
+    <address>Kg. Desa Bakti, Mentakab, Pahang</address>
+    <position>Programmer</position>
+    <socials>
+        <social id="1">ainvauxhall</social>
+        <social id="2"> </social>
+    </socials>
+
+    <!-->Resume content<-->
+    <summary>An ambitious programmer offering technical in programming analysis, application analysis and design</summary>
+    <skills>
+        <skill id="1">PHP</skill>
+        <skill id="2">HTML</skill>
+        <skill id="3">JAVA</skill>
+        <skill id="4">C++</skill>
+    </skills>
+    <experiences>
+        <experience id="1">Programmer at Twin Continent Sdn Bhd (2019)</experience>
+        <experience id="2">Web designer at Twin Continent (2019)</experience>
+        <experience id="3">Committee in UiTM Badminton Tournement (2017-2018)</experience>
+        <experience id="4"></experience>
+    </experiences>
+    <educations>
+        <education id="1">SMK Seri Semantan</education>
+        <education id="2">Diploma of Computer Science</education>
+        <education id="3">Bachelor of Computer Science (Honours)</education>
+        <education id="4"></education>
+    </educations>
+    <interest>Badminton</interest>
+</Resume>

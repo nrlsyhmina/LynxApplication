@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resume>
+    <name>SHAFIQAH ALYA</name>
+    <phone>0172412647</phone>
+    <email>shafiqahalya99@gmail.com</email>
+    <address>Seremban, Negeri Sembilan</address>
+    <position>Web Developer</position>
+    <social>
+        <social id="1">alyaa89_</social>
+        <social id="2"> </social>
+    </social>
+    <summary>Seeking for an entry-level job in a high-level professional environment to begin my career and utilize what I have learned and acquired in my academic program to a real-life
+    </summary>
+    <skills>
+        <skill id="1">Java</skill>
+        <skill id="2">Php</skill>
+        <skill id="3">Microsoft Office</skill>
+        <skill id="4">Android Studio</skill>
+    </skills>
+    <experiences>
+        <experience id="1">Promoter At Parkson (2017)</experience>
+        <experience id="2">Web designer at AOne Plus (2019)</experience>
+        <experience id="3">Part-Time at ITWorld (2020)</experience>
+        <experience id="4"></experience>
+    </experiences>
+    <educations>
+        <education id="1">Diploma of Computer Science (UITM)</education>
+        <education id="2">Bachelor of Computer Science (UITM)</education>
+        <education id="3"></education>
+        <education id="4"></education>
+    </educations>
+    <interest></interest>
+</Resume>
